@@ -1,3 +1,6 @@
+set nocompatible
+set backspace=indent,eol,start
+syntax on
 so ~/.vim/vundle.vim
 
 " 记住上一次的位置

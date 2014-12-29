@@ -1,4 +1,4 @@
-    git clone https://github.com/zhengkai/vimrc.git ~/.vim
+    git clone git@github.com:beyond613/vimrc.git  ~/.vim
 	mkdir ~/.tmp
 	ln -s ~/.vim/.vimrc ~/
 	cd ~/.vim
